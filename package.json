@@ -1,0 +1,22 @@
+{
+  "name": "buns-not-done",
+  "version": "0.0.1",
+  "description": "a game about a rabbit who comes back",
+  "scripts": {
+    "start": "tsc80 run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Floozutter/buns-not-done.git"
+  },
+  "author": "Floozutter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Floozutter/buns-not-done/issues"
+  },
+  "homepage": "https://github.com/Floozutter/buns-not-done#readme",
+  "devDependencies": {
+    "tic80-typescript": "^2.0.0",
+    "typescript": "^5.3.3"
+  }
+}
