@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "a game about a rabbit who comes back",
   "scripts": {
-    "start": "tsc80 run"
+    "start": "tsc && tsc80 run"
   },
   "repository": {
     "type": "git",
